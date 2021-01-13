@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 3851e07998180554abe0aa52385cc875
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4839557472449243018
+    second: AKA FACE_START_0
+  - first:
+      213: 8166046209249030992
+    second: AKA FACE_START_1
+  - first:
+      213: -8002118780449250827
+    second: AKA FACE_START_2
+  - first:
+      213: 7603725668867259024
+    second: AKA FACE_START_3
+  - first:
+      213: -3705141233780118966
+    second: AKA FACE_START_4
+  - first:
+      213: -966223689958372996
+    second: AKA FACE_START_5
+  - first:
+      213: -403329485508568870
+    second: AKA FACE_START_6
+  - first:
+      213: -2096528699344933905
+    second: AKA FACE_START_7
+  - first:
+      213: 731592233857493691
+    second: AKA FACE_START_8
+  - first:
+      213: 7577303021818085451
+    second: AKA FACE_START_9
+  - first:
+      213: -3308526027069575571
+    second: AKA FACE_START_10
+  - first:
+      213: 9080943434688980770
+    second: AKA FACE_START_11
+  - first:
+      213: 3729572685087415505
+    second: AKA FACE_START_12
+  - first:
+      213: -1346642188589077242
+    second: AKA FACE_START_13
+  - first:
+      213: -7845324792571270455
+    second: AKA FACE_START_14
+  - first:
+      213: -3302570213311573355
+    second: AKA FACE_START_15
+  - first:
+      213: -8055750523626789694
+    second: AKA FACE_START_16
+  - first:
+      213: 7574955556257731621
+    second: AKA FACE_START_17
+  - first:
+      213: -7549831278438962548
+    second: AKA FACE_START_18
+  - first:
+      213: 5658665175757219069
+    second: AKA FACE_START_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AKA FACE_START_0
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 4137
+        width: 650
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6785390be1076dcb0800000000000000
+      internalID: -4839557472449243018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_1
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 4137
+        width: 650
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053b6b103cf935170800000000000000
+      internalID: 8166046209249030992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_2
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 4137
+        width: 650
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f127d0cd53c2f090800000000000000
+      internalID: -8002118780449250827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_3
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 4137
+        width: 650
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a3a56a53cd58960800000000000000
+      internalID: 7603725668867259024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 3124
+        width: 650
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a22e5bda1b49cc0800000000000000
+      internalID: -3705141233780118966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_5
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 3149
+        width: 650
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79c67a5ca84792f0800000000000000
+      internalID: -966223689958372996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_6
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 3124
+        width: 650
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad812d848f5176af0800000000000000
+      internalID: -403329485508568870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_7
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 3102
+        width: 650
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb222e7142a7e2e0800000000000000
+      internalID: -2096528699344933905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_8
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2067
+        width: 650
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaa283b243272a00800000000000000
+      internalID: 731592233857493691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_9
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 2067
+        width: 650
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4006fab3fcf72960800000000000000
+      internalID: 7577303021818085451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_10
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 2067
+        width: 650
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e22629b11c512d0800000000000000
+      internalID: -3308526027069575571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_11
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 2067
+        width: 650
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2276d02e0fdf50e70800000000000000
+      internalID: 9080943434688980770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1101
+        width: 650
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc92a2d89a12c330800000000000000
+      internalID: 3729572685087415505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_13
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1101
+        width: 650
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60de7957014cf4de0800000000000000
+      internalID: -1346642188589077242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_14
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 1101
+        width: 650
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca693fdaaecf1390800000000000000
+      internalID: -7845324792571270455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_15
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 1101
+        width: 650
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59217c583e9ea22d0800000000000000
+      internalID: -3302570213311573355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 88
+        width: 650
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4ee087499343090800000000000000
+      internalID: -8055750523626789694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_17
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 88
+        width: 650
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5241d10d1f5af1960800000000000000
+      internalID: 7574955556257731621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_18
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 88
+        width: 650
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a2386f37c993790800000000000000
+      internalID: -7549831278438962548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AKA FACE_START_19
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 88
+        width: 650
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4e1e71ffd978e40800000000000000
+      internalID: 5658665175757219069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

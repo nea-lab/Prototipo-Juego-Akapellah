@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: f00dbd05a56eb3649b8b610c084fd7fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -185139587900567588
+    second: GHOST DEATH_0
+  - first:
+      213: 4024518274224566152
+    second: GHOST DEATH_1
+  - first:
+      213: 118092786539071625
+    second: GHOST DEATH_2
+  - first:
+      213: 3001724962950868528
+    second: GHOST DEATH_3
+  - first:
+      213: -6605088104543991374
+    second: GHOST DEATH_4
+  - first:
+      213: -2273348492062998153
+    second: GHOST DEATH_5
+  - first:
+      213: -803764319403417915
+    second: GHOST DEATH_6
+  - first:
+      213: -1782331173159232731
+    second: GHOST DEATH_7
+  - first:
+      213: -5106713717689350941
+    second: GHOST DEATH_8
+  - first:
+      213: 7554742128482338615
+    second: GHOST DEATH_9
+  - first:
+      213: 3177425710009587681
+    second: GHOST DEATH_10
+  - first:
+      213: 5111593195842819880
+    second: GHOST DEATH_11
+  - first:
+      213: -1480779665906453706
+    second: GHOST DEATH_12
+  - first:
+      213: 5226811604606676509
+    second: GHOST DEATH_13
+  - first:
+      213: -43388498396988373
+    second: GHOST DEATH_14
+  - first:
+      213: -9070763547803740580
+    second: GHOST DEATH_15
+  - first:
+      213: 448028341003126837
+    second: GHOST DEATH_16
+  - first:
+      213: -3280143132800196112
+    second: GHOST DEATH_17
+  - first:
+      213: 2466197331447173245
+    second: GHOST DEATH_18
+  - first:
+      213: -8715749990895899655
+    second: GHOST DEATH_19
+  - first:
+      213: -7054023920100442741
+    second: GHOST DEATH_20
+  - first:
+      213: -1948076989142113977
+    second: GHOST DEATH_21
+  - first:
+      213: -4605735042157978065
+    second: GHOST DEATH_22
+  - first:
+      213: -6619378785628613434
+    second: GHOST DEATH_23
+  - first:
+      213: -9093220023178040473
+    second: GHOST DEATH_24
+  - first:
+      213: 7314925936379473969
+    second: GHOST DEATH_25
+  - first:
+      213: 8772389332518525727
+    second: GHOST DEATH_26
+  - first:
+      213: 5674313168097758531
+    second: GHOST DEATH_27
+  - first:
+      213: 2682762776289531858
+    second: GHOST DEATH_28
+  - first:
+      213: -8394567336869213630
+    second: GHOST DEATH_29
+  - first:
+      213: 1258696636707196556
+    second: GHOST DEATH_30
+  - first:
+      213: -4041717234785876005
+    second: GHOST DEATH_31
+  - first:
+      213: 8878072972032174391
+    second: GHOST DEATH_32
+  - first:
+      213: 5642236088088552765
+    second: GHOST DEATH_33
+  - first:
+      213: 5728048748041883865
+    second: GHOST DEATH_34
+  - first:
+      213: -1024910802084628277
+    second: GHOST DEATH_35
+  - first:
+      213: -6172595179808387525
+    second: GHOST DEATH_36
+  - first:
+      213: -6818977660288008710
+    second: GHOST DEATH_37
+  - first:
+      213: -9012416896213031006
+    second: GHOST DEATH_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GHOST DEATH_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2292
+        width: 824
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf035596804e6df0800000000000000
+      internalID: -185139587900567588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GHOST DEATH_1
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2289
+        width: 837
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f293f2c06f9d730800000000000000
+      internalID: 4024518274224566152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GHOST DEATH_2
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 2289
+        width: 824
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988823083cc83a100800000000000000
+      internalID: 118092786539071625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GHOST DEATH_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1199
+        width: 836
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eeb1233f448a920800000000000000
+      internalID: 3001724962950868528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GHOST DEATH_4
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1077
+        width: 829
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b94f7a3d530654a0800000000000000
+      internalID: -6605088104543991374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GHOST DEATH_5
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1025
+        width: 888
+        height: 957
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7714ae757917370e0800000000000000
+      internalID: -2273348492062998153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GHOST DEATH_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 14
+        width: 895
+        height: 991
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce53da2c9478d4f0800000000000000
+      internalID: -803764319403417915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GHOST DEATH_7
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 0
+        width: 915
+        height: 995
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b1dbfbd33e347e0800000000000000
+      internalID: -1782331173159232731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GHOST DEATH_8
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 0
+        width: 929
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e403872eee4129b0800000000000000
+      internalID: -5106713717689350941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
