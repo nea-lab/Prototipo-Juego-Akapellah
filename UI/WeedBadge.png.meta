@@ -1,0 +1,395 @@
+fileFormatVersion: 2
+guid: ddb50ebc6b439024bb0112a6cab07fcc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2970609002441374934
+    second: WeedBadge_0
+  - first:
+      213: 866651124778377418
+    second: WeedBadge_1
+  - first:
+      213: -7463184450847185880
+    second: WeedBadge_2
+  - first:
+      213: -5832709491609664024
+    second: WeedBadge_3
+  - first:
+      213: 3376742614352958067
+    second: WeedBadge_4
+  - first:
+      213: 608017490510419671
+    second: WeedBadge_5
+  - first:
+      213: 2256036116630029329
+    second: WeedBadge_6
+  - first:
+      213: 8264884627483981829
+    second: WeedBadge_7
+  - first:
+      213: 1910495399349654598
+    second: WeedBadge_8
+  - first:
+      213: -7916348249315479899
+    second: WeedBadge_9
+  - first:
+      213: -8578029228388635487
+    second: WeedBadge_10
+  - first:
+      213: -5994854608546381827
+    second: WeedBadge_11
+  - first:
+      213: 1941972786082400458
+    second: WeedBadge_12
+  - first:
+      213: -8745837805060264491
+    second: WeedBadge_13
+  - first:
+      213: 4649581488001571813
+    second: WeedBadge_14
+  - first:
+      213: 5025600363846724134
+    second: WeedBadge_15
+  - first:
+      213: 2667290652749411431
+    second: WeedBadge_16
+  - first:
+      213: -879451222960016335
+    second: WeedBadge_17
+  - first:
+      213: 5888568982763497312
+    second: WeedBadge_18
+  - first:
+      213: 6159448178113513515
+    second: WeedBadge_19
+  - first:
+      213: -613694428674812126
+    second: WeedBadge_20
+  - first:
+      213: -7001861578013457742
+    second: WeedBadge_21
+  - first:
+      213: 3464213352015308660
+    second: WeedBadge_22
+  - first:
+      213: -3746955240667169783
+    second: WeedBadge_23
+  - first:
+      213: 1592299766642858103
+    second: WeedBadge_24
+  - first:
+      213: -2130990170291579872
+    second: WeedBadge_25
+  - first:
+      213: -582136397935974986
+    second: WeedBadge_26
+  - first:
+      213: -3752573296840020267
+    second: WeedBadge_27
+  - first:
+      213: -6480034624464819283
+    second: WeedBadge_28
+  - first:
+      213: -740881111219964728
+    second: WeedBadge_29
+  - first:
+      213: 1081002738092325337
+    second: WeedBadge_30
+  - first:
+      213: -5504609925391400846
+    second: WeedBadge_31
+  - first:
+      213: 8960788215631302541
+    second: WeedBadge_32
+  - first:
+      213: -5199036746000042872
+    second: WeedBadge_33
+  - first:
+      213: 4583874657398487336
+    second: WeedBadge_34
+  - first:
+      213: -5833543624679650414
+    second: WeedBadge_35
+  - first:
+      213: -1716143488186499538
+    second: WeedBadge_36
+  - first:
+      213: 7372766630905395909
+    second: WeedBadge_37
+  - first:
+      213: 2901646449462555547
+    second: WeedBadge_38
+  - first:
+      213: -7724486647953222049
+    second: WeedBadge_39
+  - first:
+      213: -5106621885997636505
+    second: WeedBadge_40
+  - first:
+      213: 7337941153708128909
+    second: WeedBadge_41
+  - first:
+      213: 9179329383692515452
+    second: WeedBadge_42
+  - first:
+      213: 6452918188586294412
+    second: WeedBadge_43
+  - first:
+      213: -5258007547887639363
+    second: WeedBadge_44
+  - first:
+      213: 2787401802800848164
+    second: WeedBadge_45
+  - first:
+      213: 7912773078690501400
+    second: WeedBadge_46
+  - first:
+      213: -2540468114464106287
+    second: WeedBadge_47
+  - first:
+      213: 4370350070645753941
+    second: WeedBadge_48
+  - first:
+      213: 6133749171507684514
+    second: WeedBadge_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WeedBadge_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc78151629b93920800000000000000
+      internalID: 2970609002441374934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeedBadge_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 440
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0ab943b96f60c00800000000000000
+      internalID: 866651124778377418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeedBadge_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824e80a98417d6890800000000000000
+      internalID: -7463184450847185880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeedBadge_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e58e82de9d0e0fa0800000000000000
+      internalID: -5832709491609664024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeedBadge_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3729e6a54899cde20800000000000000
+      internalID: 3376742614352958067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
